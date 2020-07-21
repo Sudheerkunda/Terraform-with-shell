@@ -1,0 +1,8 @@
+#aws_access_key = "AKIA4GGVMOHFID6LWTU2"
+#aws_secret_key = "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"
+aws_region = "Region"
+vpc_cidr = "VPC_cidr"
+public_subnet1_cidr = "subnet_cidr"
+vpc_name = "VPC_name"
+public_subnet1_name = "subnet_name"
+availability_zone = "availability_zone"

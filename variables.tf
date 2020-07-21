@@ -1,0 +1,8 @@
+#variable "aws_access_key" {}
+#variable "aws_secret_key" {}
+variable "aws_region" {}
+variable "vpc_cidr" {}
+variable "vpc_name" {}
+variable "subnet_cidr" {}
+variable "subnet_name" {}
+variable "availability_zone" {}
